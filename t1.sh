@@ -1,5 +1,6 @@
 #!/bin/bash
 
+cd /var/jenkins_home
 
 if [[ `git status --porcelain` ]]; then
   git add .
