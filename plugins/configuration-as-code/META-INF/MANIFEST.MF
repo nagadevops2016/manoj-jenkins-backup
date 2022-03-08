@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: yaroslavafenkin
+Build-Jdk: 1.8.0_312
+Extension-Name: configuration-as-code
+Specification-Title: Manage Jenkins configuration as code
+Implementation-Title: configuration-as-code
+Implementation-Version: 1.55.1
+Group-Id: io.jenkins
+Short-Name: configuration-as-code
+Long-Name: Configuration as Code Plugin
+Url: https://github.com/jenkinsci/configuration-as-code-plugin
+Compatible-Since-Version: 1.28
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.55.1
+Hudson-Version: 2.249.1
+Jenkins-Version: 2.249.1
+Plugin-Dependencies: caffeine-api:2.9.2-29.v717aac953ff3,snakeyaml-api
+ :1.29.1
+Plugin-Developers: Joseph Petersen:jetersen:,Tim Jacomb:timja:,Oleg Ne
+ nashev:oleg_nenashev:
+Plugin-License-Name: MIT License
+Plugin-License-Url: http://opensource.org/licenses/MIT
+Plugin-ChangelogUrl: https://github.com/jenkinsci/configuration-as-cod
+ e-plugin/releases
+Plugin-LogoUrl: https://raw.githubusercontent.com/jenkinsci/configurat
+ ion-as-code-plugin/master/plugin/src/main/webapp/img/logo-head.svg
+Plugin-ScmUrl: https://github.com/jenkinsci/configuration-as-code-plugin
+

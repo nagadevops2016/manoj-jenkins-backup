@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.1
+Build-Jdk-Spec: 11
+Plugin-Class: jenkins.metrics.api.Metrics
+Extension-Name: metrics
+Implementation-Title: metrics
+Implementation-Version: 4.1.6.1
+Specification-Title: This plugin exposes the Metrics API to Jenkins plug
+ ins.
+Group-Id: org.jenkins-ci.plugins
+Short-Name: metrics
+Long-Name: Metrics Plugin
+Url: https://github.com/jenkinsci/metrics-plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 4.1.6.1
+Hudson-Version: 2.319.1
+Jenkins-Version: 2.319.1
+Plugin-Dependencies: jackson2-api:2.13.0-230.v59243c64b0a5,variant:1.4
+Plugin-Developers: Stephen Connolly:stephenconnolly:
+Plugin-License-Name: The MIT license
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-ScmUrl: http://github.com/jenkinsci/metrics-plugin
+
